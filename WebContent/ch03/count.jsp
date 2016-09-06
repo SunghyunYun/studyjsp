@@ -12,7 +12,7 @@
 	<%
 		globalCount++ ;
 		localCount++ ;
-	%>
+	%>ddddd
 	
 	globalCount = <%= globalCount %>
 	localCount = <%= localCount %>
